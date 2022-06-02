@@ -7,8 +7,8 @@ body {
 
 }
 
-section {
-    overflow-x: hidden;
+html {
+    overflow-x: hidden !important;
 }
 
 a {
@@ -128,23 +128,6 @@ aside {
   }
 
 
-<<<<<<< HEAD
-=======
-.first-content .butao img {
-    height: 50px;
-    width: 50px;
-    border-radius: 25px;
-    z-index: 999;
-    cursor: pointer;
-    position: fixed;
-    right: 0px;
-    bottom: 20px;
-    overflow-x: hidden;
-    
-
- }
-
->>>>>>> b7d834ccb8bbf414f5aa5e5151bd5be7b2958aaa
 /*PROJECT AREA*/
 
 .flex {
@@ -335,6 +318,9 @@ aside {
 }
 
 @media (min-width: 100px) and (max-width: 1020px) {
+    html {
+        overflow-x: hidden !important;
+    }
     body {
         overflow-x: hidden;
         margin:0;
@@ -420,6 +406,9 @@ aside {
 }
 
 @media (min-width: 100px) and (max-width: 600px) {
+    html {
+        overflow-x: hidden !important;
+    }
     body {
         margin: 0;
         overflow-x: hidden;
