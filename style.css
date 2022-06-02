@@ -405,13 +405,12 @@ aside {
       
 }
 
-@media (min-width: 100px) and (max-width: 600px) {
+@media (min-width: 100px) and (max-width: 700px) {
     html {
         overflow-x: hidden !important;
     }
     body {
         margin: 0;
-        overflow-x: hidden;
     }
     .nav {
         display:none;
