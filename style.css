@@ -116,7 +116,7 @@ aside {
       width: 0;
     }
     to {
-      width: 16em;
+      width: 10em;
     }
   }
 
@@ -519,7 +519,7 @@ aside {
     .carrer-area {
         background-color: #1b2531;
         color: #fff;
-        height: auto;
+        height: 1500px;
         
     }
     
