@@ -85,7 +85,7 @@ aside {
     flex-direction: column;
     align-items: center;
     color: #fff;
-    height: 533px;
+    height: 550px;
     background-color: #1b2531;
 }
 
@@ -218,7 +218,7 @@ aside {
 .degree-area {
     background-color: #283142;
     color: #fff;
-    height: auto;
+    height: 1803px;
     
 }
 
@@ -256,7 +256,7 @@ aside {
 .members{
     background-color: #1b2531;
     color: #fff;
-    height: auto;
+    height: 5803px;
 }
 
 .members article {
@@ -551,7 +551,7 @@ aside {
     .degree-area {
         background-color: #283142;
         color: #fff;
-        height: auto;
+        height: 1500px;
         
     }
     
@@ -583,7 +583,7 @@ aside {
     .members{
         background-color: #1b2531;
         color: #fff;
-        height: auto;
+        height: 5303px;
     }
     
     .members article {
