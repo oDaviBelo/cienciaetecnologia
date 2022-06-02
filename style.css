@@ -2,13 +2,14 @@ body {
     margin: 0;
     padding: 0; 
     font-family: 'Barlow Condensed', sans-serif; 
-    position: relative;
+
     overflow-x: hidden;
 
 }
 
 html {
     overflow-x: hidden !important;
+    
 }
 
 a {
@@ -84,11 +85,12 @@ aside {
     flex-direction: column;
     align-items: center;
     color: #fff;
-    height: 700px;
+    height: 533px;
     background-color: #1b2531;
 }
 
 .main-text {
+    margin-top:139px;
     font-size:50px;
 }
 
@@ -101,7 +103,7 @@ aside {
     margin: 0 auto;
     white-space: nowrap;
     overflow: hidden;
-    margin-top: 20vh;
+    margin-top: 10vh;
   }
 
   .typing-animation {
@@ -177,7 +179,7 @@ aside {
 .carrer-area {
     background-color: #1b2531;
     color: #fff;
-    height: auto;
+    height: 1800px;
     
 }
 
